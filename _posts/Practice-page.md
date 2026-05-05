@@ -1,5 +1,5 @@
 ---
-title: "Practice-page-2026-05-05"
+title: "Practice-page"
 date: 2026-05-05
 ---
 Quick example, this is where I'll document the progress of these exercises.
